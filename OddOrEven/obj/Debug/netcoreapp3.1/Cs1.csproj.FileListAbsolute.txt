@@ -1,0 +1,13 @@
+C:\Users\jedik\source\repos\Cs1\Cs1\bin\Debug\netcoreapp3.1\Cs1.exe
+C:\Users\jedik\source\repos\Cs1\Cs1\bin\Debug\netcoreapp3.1\Cs1.deps.json
+C:\Users\jedik\source\repos\Cs1\Cs1\bin\Debug\netcoreapp3.1\Cs1.runtimeconfig.json
+C:\Users\jedik\source\repos\Cs1\Cs1\bin\Debug\netcoreapp3.1\Cs1.runtimeconfig.dev.json
+C:\Users\jedik\source\repos\Cs1\Cs1\bin\Debug\netcoreapp3.1\Cs1.dll
+C:\Users\jedik\source\repos\Cs1\Cs1\bin\Debug\netcoreapp3.1\Cs1.pdb
+C:\Users\jedik\source\repos\Cs1\Cs1\obj\Debug\netcoreapp3.1\Cs1.csprojAssemblyReference.cache
+C:\Users\jedik\source\repos\Cs1\Cs1\obj\Debug\netcoreapp3.1\Cs1.AssemblyInfoInputs.cache
+C:\Users\jedik\source\repos\Cs1\Cs1\obj\Debug\netcoreapp3.1\Cs1.AssemblyInfo.cs
+C:\Users\jedik\source\repos\Cs1\Cs1\obj\Debug\netcoreapp3.1\Cs1.csproj.CoreCompileInputs.cache
+C:\Users\jedik\source\repos\Cs1\Cs1\obj\Debug\netcoreapp3.1\Cs1.dll
+C:\Users\jedik\source\repos\Cs1\Cs1\obj\Debug\netcoreapp3.1\Cs1.pdb
+C:\Users\jedik\source\repos\Cs1\Cs1\obj\Debug\netcoreapp3.1\Cs1.genruntimeconfig.cache

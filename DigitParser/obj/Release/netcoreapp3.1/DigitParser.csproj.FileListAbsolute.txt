@@ -1,0 +1,12 @@
+C:\Users\jedik\source\repos\Cs1Apps\DigitParser\bin\Release\netcoreapp3.1\DigitParser.exe
+C:\Users\jedik\source\repos\Cs1Apps\DigitParser\bin\Release\netcoreapp3.1\DigitParser.deps.json
+C:\Users\jedik\source\repos\Cs1Apps\DigitParser\bin\Release\netcoreapp3.1\DigitParser.runtimeconfig.json
+C:\Users\jedik\source\repos\Cs1Apps\DigitParser\bin\Release\netcoreapp3.1\DigitParser.runtimeconfig.dev.json
+C:\Users\jedik\source\repos\Cs1Apps\DigitParser\bin\Release\netcoreapp3.1\DigitParser.dll
+C:\Users\jedik\source\repos\Cs1Apps\DigitParser\bin\Release\netcoreapp3.1\DigitParser.pdb
+C:\Users\jedik\source\repos\Cs1Apps\DigitParser\obj\Release\netcoreapp3.1\DigitParser.AssemblyInfoInputs.cache
+C:\Users\jedik\source\repos\Cs1Apps\DigitParser\obj\Release\netcoreapp3.1\DigitParser.AssemblyInfo.cs
+C:\Users\jedik\source\repos\Cs1Apps\DigitParser\obj\Release\netcoreapp3.1\DigitParser.csproj.CoreCompileInputs.cache
+C:\Users\jedik\source\repos\Cs1Apps\DigitParser\obj\Release\netcoreapp3.1\DigitParser.dll
+C:\Users\jedik\source\repos\Cs1Apps\DigitParser\obj\Release\netcoreapp3.1\DigitParser.pdb
+C:\Users\jedik\source\repos\Cs1Apps\DigitParser\obj\Release\netcoreapp3.1\DigitParser.genruntimeconfig.cache

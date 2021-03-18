@@ -1,0 +1,12 @@
+C:\Users\jedik\source\repos\Cs1Apps\CarPool\bin\Release\netcoreapp3.1\CarPool.exe
+C:\Users\jedik\source\repos\Cs1Apps\CarPool\bin\Release\netcoreapp3.1\CarPool.deps.json
+C:\Users\jedik\source\repos\Cs1Apps\CarPool\bin\Release\netcoreapp3.1\CarPool.runtimeconfig.json
+C:\Users\jedik\source\repos\Cs1Apps\CarPool\bin\Release\netcoreapp3.1\CarPool.runtimeconfig.dev.json
+C:\Users\jedik\source\repos\Cs1Apps\CarPool\bin\Release\netcoreapp3.1\CarPool.dll
+C:\Users\jedik\source\repos\Cs1Apps\CarPool\bin\Release\netcoreapp3.1\CarPool.pdb
+C:\Users\jedik\source\repos\Cs1Apps\CarPool\obj\Release\netcoreapp3.1\CarPool.AssemblyInfoInputs.cache
+C:\Users\jedik\source\repos\Cs1Apps\CarPool\obj\Release\netcoreapp3.1\CarPool.AssemblyInfo.cs
+C:\Users\jedik\source\repos\Cs1Apps\CarPool\obj\Release\netcoreapp3.1\CarPool.csproj.CoreCompileInputs.cache
+C:\Users\jedik\source\repos\Cs1Apps\CarPool\obj\Release\netcoreapp3.1\CarPool.dll
+C:\Users\jedik\source\repos\Cs1Apps\CarPool\obj\Release\netcoreapp3.1\CarPool.pdb
+C:\Users\jedik\source\repos\Cs1Apps\CarPool\obj\Release\netcoreapp3.1\CarPool.genruntimeconfig.cache
